@@ -9,5 +9,7 @@
     root /home/nginx/www/;
   }
 ```
-预览如图：
+
+## 预览如图：
+- 没有选择全部改中文是为了方便我整页翻译
 ![图片](https://user-images.githubusercontent.com/46232425/160725910-dd3c3ed1-d0b0-43a9-abb4-49866786ea93.png)
